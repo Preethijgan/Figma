@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:25-12-2023
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -286,11 +286,12 @@ color: white;
 
 ```
 ## OUTPUT:
-![Alt text](<Screenshot (62).png>)
-![Alt text](<Screenshot (63).png>)
-![Alt text](<Screenshot (64).png>)
-![Alt text](<Screenshot (65).png>)
-![Alt text](<Screenshot (66).png>)
+![Screenshot (62)](https://github.com/Preethijgan/Figma/assets/144870652/63a9d336-b011-4eab-8550-d5c5dc1fc956)
+![Screenshot (63)](https://github.com/Preethijgan/Figma/assets/144870652/f7ca650e-81e3-4ac6-b203-6cab95886711)
+![Screenshot (64)](https://github.com/Preethijgan/Figma/assets/144870652/3e4dd11b-de27-4e44-8a9c-baf648b7b82e)
+![Screenshot (65)](https://github.com/Preethijgan/Figma/assets/144870652/bf7c04b8-259f-4e69-a0da-389db48cce6b)
+![Screenshot (66)](https://github.com/Preethijgan/Figma/assets/144870652/4a3465b6-dc6e-484e-b630-085afa9490fe)
+
 
 
 
